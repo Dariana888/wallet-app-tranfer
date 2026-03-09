@@ -9,3 +9,7 @@ lista_cumparaturi.append('oua')
 lista_cumparaturi.append('salam')
 
 print(lista_cumparaturi)
+
+# printarea elementelor listei cu ajutorul buclei for
+for cumparatura in lista_cumparaturi:
+    print(cumparatura)
